@@ -1,0 +1,2 @@
+type ResourceName = str
+
